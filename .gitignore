@@ -12,6 +12,7 @@ key.txt
 .vscode/
 __pycache__/
 *.py[cod]
+.venv/
 
 .streamlit/secrets.toml
 *.docx
